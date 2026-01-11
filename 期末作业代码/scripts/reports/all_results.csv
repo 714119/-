@@ -1,0 +1,12 @@
+model,accuracy
+ensemble,0.6392749244712991
+xgboost,0.636858006042296
+随机森林基线,0.6361
+gradient_boosting,0.6350453172205438
+random_forest,0.6338368580060423
+lightgbm,0.63202416918429
+neural_network,0.6235649546827795
+预测发球方赢,0.6149
+logistic_regression,0.6102719033232629
+LSTM模型,0.6056
+总是预测Player1,0.511
